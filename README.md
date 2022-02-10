@@ -1,2 +1,3 @@
 # AgendaEstudiante
-Aplicación Desktop para tus materias 
+Aplicacion de Escritorio para estudiantes. Crea tu horario ademas de alertas
+para examanes, tareas o proyectos. 
