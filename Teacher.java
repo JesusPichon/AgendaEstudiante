@@ -42,6 +42,4 @@ public class Teacher{
         this.matter = matter;
     }
 
-
-
 }
